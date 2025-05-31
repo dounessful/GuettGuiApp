@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695042993656",
+    "project_id": "guettgui-3eabd",
+    "storage_bucket": "guettgui-3eabd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695042993656:android:b484b033cb32e82e59ba0d",
+        "android_client_info": {
+          "package_name": "sn.douness.guettgui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzyU-leOwqGcbUNN_6StiNGfYX58i5GgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695042993656:android:2c93d2d9380001a259ba0d",
+        "android_client_info": {
+          "package_name": "sn.kamed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzyU-leOwqGcbUNN_6StiNGfYX58i5GgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
